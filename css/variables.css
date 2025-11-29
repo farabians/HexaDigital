@@ -1,0 +1,26 @@
+:root {
+    /* Brand Colors */
+    --color-primary: #9FEE1C;
+    --color-bg: #0E110D;
+    --color-bg-light: #1a1f18;
+    --color-text: #ffffff;
+    --color-text-muted: #a0a0a0;
+    
+    /* Typography */
+    --font-main: 'Space Grotesk', sans-serif;
+    
+    /* Spacing */
+    --spacing-xs: 0.5rem;
+    --spacing-sm: 1rem;
+    --spacing-md: 2rem;
+    --spacing-lg: 4rem;
+    --spacing-xl: 8rem;
+    
+    /* Layout */
+    --container-width: 1200px;
+    --header-height: 80px;
+    
+    /* Transitions */
+    --transition-fast: 0.2s ease;
+    --transition-normal: 0.3s ease;
+}
